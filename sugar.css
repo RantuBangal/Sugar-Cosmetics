@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+.top-bar{
+    width: 100%;
+    height: 30px;
+    background-color: #debe84;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: none;
+}
+.top-bar:hover{
+    cursor: pointer;
+}
+#simp{
+    margin-top: none;
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+#search{
+    background-color: #212121;
+    color: white;
+}
+.login{
+    color: white;
+}
+.icon{
+    color: white;
+}
+.sec-nav{
+    width: 100%;
+    height: 50px;
+    background-color: #212121;
+    display: flex;
+    align-items: center;
+}
+.sec-nav>a{
+    text-decoration: none;
+    color: white;
+    margin: 0 25px 0 25px;
+}
+.hero-section{
+    width: 100%;
+    height: 700px;
+    background-color: #212121;
+    text-align: center;
+    padding: 30px 0 0 0;
+}
+#paragraph{
+    color: white;
+}
+#boxin{
+    margin-top: 30px;
+}
+#sec-im{
+    width: 286px;
+    height: 286px;
+}
+.of{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.of>span:nth-child(1){
+    text-decoration: line-through;
+    font-size: 10px;
+}
+.of>span:nth-child(3){
+    color: rgb(212, 49, 76);
+    font-size: 14px;
+}
+.btn-primary{
+    background-color: black;
+}
+.hot-deals{
+    margin-top: 30px;
+    padding: 20px;
+}
+.head-ing{
+    margin-bottom: 15px;
+    text-align: center;
+}
+.img-3{
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+.img-3>img{
+    border-radius: 10px;
+}
